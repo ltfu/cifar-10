@@ -4,8 +4,12 @@
 三次实验基于resnet-18网络进行训练
 
 实验环境：
+
 python 3.12.3
+
 pytorch 2.3.1
+
 GPU P100
+
 
 
